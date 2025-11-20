@@ -93,7 +93,7 @@ Para verificar el funcionamiento correcto:
 - **Base de Datos**: SQLite 3
 - **Librería de BD**: sqlite3 (nativa de Python)
 
-## 👤 Alumno: 
+##  Alumno: 
 
 Alejandra Cortés
 
